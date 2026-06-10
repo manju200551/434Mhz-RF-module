@@ -338,16 +338,3 @@ The demonstration video shows:
 * Button A, B, C, and D testing
 * Full project demonstration
 
----
-
-## Author
-
-Kiruba Kanth
-
-Electronics and Communication Engineering (ECE)
-
-Embedded Systems Enthusiast
-
-GitHub Project: 433MHz RF Wireless 4-Button Remote LED Control System
-
----
